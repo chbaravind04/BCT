@@ -1,0 +1,9 @@
+download 18.18.1 version of node js 
+npm install -g npm
+npm create next-app
+cd my-app
+npm i 
+npm i hardhat
+npm install --save-dev hardhat
+npx hardhat init
+npx hardhat node
